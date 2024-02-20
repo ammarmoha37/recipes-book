@@ -3,14 +3,14 @@ nav {
   border-radius: 0;
 }
 
-.navbar-brand {
-  color: aliceblue;
+li > a, .navbar-brand {
+  color: #f0f8ff;
 }
 
-li > a {
-  color: aliceblue;
-}
-
-li > a:hover {
+li > a:hover, li > a:focus {
   background-color: #b989d0;
+}
+
+.icon-bar {
+  background-color: #f0f8ff;
 }
