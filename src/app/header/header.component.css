@@ -1,0 +1,16 @@
+nav {
+  background-color: #653e77;
+  border-radius: 0;
+}
+
+.navbar-brand {
+  color: aliceblue;
+}
+
+li > a {
+  color: aliceblue;
+}
+
+li > a:hover {
+  background-color: #b989d0;
+}
