@@ -3,7 +3,7 @@ nav {
   border-radius: 0;
 }
 
-li > a, .navbar-brand {
+.nav > li > a, .navbar-brand {
   color: #f0f8ff;
 }
 
